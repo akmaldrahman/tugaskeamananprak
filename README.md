@@ -1,6 +1,6 @@
 # README
 
-## Nama Tugas
+## tugas prak keamanan
 Aplikasi GUI untuk Kriptografi dan Steganografi
 
 ## Deskripsi Tugas
